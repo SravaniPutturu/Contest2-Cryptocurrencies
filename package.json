@@ -1,6 +1,6 @@
 {
+  "name": "contest2-cryptocurrencies",
   "homepage": "https://React-Tasks.github.io/Contest2-Cryptocurrencies",
-  "name": "template",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
