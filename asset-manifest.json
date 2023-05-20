@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Contest2-Cryptocurrencies/static/css/main.5192cad8.css",
+    "main.js": "/Contest2-Cryptocurrencies/static/js/main.070743ca.js",
+    "index.html": "/Contest2-Cryptocurrencies/index.html",
+    "main.5192cad8.css.map": "/Contest2-Cryptocurrencies/static/css/main.5192cad8.css.map",
+    "main.070743ca.js.map": "/Contest2-Cryptocurrencies/static/js/main.070743ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5192cad8.css",
+    "static/js/main.070743ca.js"
+  ]
+}
